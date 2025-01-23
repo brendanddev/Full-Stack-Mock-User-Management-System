@@ -28,3 +28,8 @@ MySQL/MariaDB for the database storage.
 
 - **Security**:  
   - Password Hashing (using PHP's `password_hash`)
+
+## Preview:
+![Screnshot of Login](assets/one.jpg)
+![Screenshot of Storage](assets/two.jpg)
+![Screenshot of User Page](assets/three.jpg)
