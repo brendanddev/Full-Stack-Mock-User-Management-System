@@ -1,5 +1,5 @@
 <?php 
-$dsn = "mysql:dbname=login_system;host=127.0.0.1"; // Connection string
+$dsn = "mysql:dbname=system;host="; // Connection string
 $username = "root";
 $password = "";
 
